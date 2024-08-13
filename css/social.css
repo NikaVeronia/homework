@@ -1,0 +1,44 @@
+.Social{
+position: fixed;
+width: 27px;
+height: 173px;
+top: 359px;
+left: 77px;
+gap: 0px;
+opacity: 0px;
+}
+.twitter{
+width: 24px;
+height: 24px;
+top: 508px;
+left: 80px;
+padding: 20px 1.54px 3px 1.54px;
+gap: 0px;
+opacity: 0px;
+    
+}
+.instagram{
+width: 24px;
+height: 24px;
+top: 460px;
+left: 80px;
+padding: 2px;
+gap: 0px;
+opacity: 0px;
+     
+}
+.Follow{ 
+padding-bottom: 20px; 
+top: 359px;
+left: 104px;
+gap: 0px;
+opacity: 0px;
+range: -90 deg;
+font-family: Poppins;
+font-size: 18px;
+font-weight: 700;
+line-height: 27px;
+text-align: left;
+color: #FFFFFF;
+writing-mode: vertical-rl;    
+}

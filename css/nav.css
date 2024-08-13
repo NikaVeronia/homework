@@ -1,0 +1,96 @@
+.logo{
+width: 113px;
+height: 37px;
+padding: 0px 7px 0px 0px;
+gap: 0px;
+opacity: 0px;
+}
+.text-logo{
+display: flex;
+align-items: flex-start;
+flex-direction: row;
+width: 24px;
+height: 43px;
+top: -6px;
+left: 82px;
+gap: 0px;
+opacity: 0px;
+color: #FFFFFF;
+font-family: Playfair Display;
+font-size: 32px;
+font-weight: 700;
+line-height: 42.66px;
+letter-spacing: 0.01em;
+text-align: left;
+}
+.header-Equipment,
+.header-about,
+.header-blog,
+.header-account{
+position: absolute;
+display: flex;
+align-items: flex-start;
+flex-direction: row; 
+color: #FFFFFF;
+}
+.header-Equipment{
+width: 102px;
+height: 27px;
+top: 2px;
+left: 739px;
+gap: 0px;
+opacity: 0px;
+font-family: Poppins;
+font-size: 18px;
+font-weight: 700;
+line-height: 27px;
+text-align: left;    
+}
+.header-about{
+width: 83px;
+height: 27px;
+top: 2px;
+left: 869px;
+gap: 0px;
+opacity: 0px;
+font-family: Poppins;
+font-size: 18px;
+font-weight: 700;
+line-height: 27px;
+text-align: left;
+}
+.header-blog{
+width: 41px;
+height: 27px;
+top: 2px;
+left: 984px;
+gap: 0px;
+opacity: 0px;
+font-family: Poppins;
+font-size: 18px;
+font-weight: 700;
+line-height: 27px;
+text-align: left;
+}
+.icons-general{
+width: 24px;
+height: 24px;
+top: 3px;
+left: 1653px;
+gap: 0px;
+opacity: 0px;
+}
+.header-account{
+width: 105px;
+height: 26px;
+top: 3px;
+left: 1653px;
+gap: 0px;
+opacity: 0px;
+font-family: Poppins;
+font-size: 17px;
+font-weight: 700;
+line-height: 25.5px;
+text-align: left;
+
+}

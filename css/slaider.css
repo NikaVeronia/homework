@@ -1,0 +1,120 @@
+.slider{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    position: fixed;
+    
+    width: 77px;
+    height: 244px;
+    top: 326px;
+    left: 1763px;
+    vertical-align:middle;
+    color: rgba(255, 255, 255, 1);
+    box-shadow: 0px 0px 100px 0px rgba(0, 0, 0, 0.2);
+    }
+    .slider-scroll{
+    position: fixed;
+    
+    width: 3px;
+    height: 240px;
+    top: 326px;
+    left: 1837px;
+    gap: 0px;
+    opacity: 0px;
+          
+    }
+    .Slider-Indicator{
+    
+    width: 3px;
+    height: 60px;
+    top: 326px;
+    left: 1837px;
+    gap: 0px;
+    opacity: 0px;
+    rotate: -0 deg;
+    color: #FFFFFF;
+    
+        
+    }
+    .slider-bg{
+    width: 3px;
+    height: 240px;
+    top: 326px;
+    left: 1837px;
+    gap: 0px;
+    opacity: 0.5px;
+    rotate: -0 deg;
+    opacity: 50%; 
+    color: #FFFFFF;   
+    }
+    .slider-text{
+    justify-content: space-between;
+    flex-direction: column;
+    
+    width: 46px;
+    height: 228px;
+    top: 342px;
+    left: 1763px;
+    gap: 0px;
+    
+    
+    }
+    .frame-1{
+    
+    width:46px;
+    height:228px;
+    top: 342px;
+    left: 1763px;
+    gap: 40px;
+    opacity: 0px;
+        
+    }
+    .text-start{
+    padding-top:30px ;
+    padding-bottom:50px ;
+    /*width: 46px;*/
+    height: 27px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 27px;
+    text-align: right;
+    }
+    .text-01{
+    padding-bottom:50px ;
+    /*width: 19px;*/
+    height: 27px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 27px;
+    text-align: right;
+    }
+    .text-02{
+    padding-bottom:50px ;
+    /*width: 23px;*/
+    height: 27px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 27px;
+    text-align: right;
+        
+    }
+    .text-03{
+    /*width: 23px;*/
+    height: 27px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 27px;
+    text-align: right;
+    }
